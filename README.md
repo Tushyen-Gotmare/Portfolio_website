@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Welcome to my portfolio website repository! This project showcases my skills, projects, and experience in web development. You can visit the live version of the website [here]([http://your-live-website-link.com](https://tushyen-gotmare.github.io/Portfolio_website/)).
+Welcome to my portfolio website repository! This project showcases my skills, projects, and experience in web development. You can visit the live version of the website [here]((https://tushyen-gotmare.github.io/Portfolio_website/)).https://tushyen-gotmare.github.io/Portfolio_website/
 
 ## Table of Contents
 - [Home]
